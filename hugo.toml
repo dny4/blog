@@ -1,4 +1,4 @@
-baseURL = 'https://dny4.github.io/'
+baseURL = 'https://dny4.github.io/blog/'
 languageCode = 'en-us'
 title = 'blog'
 theme = 'ananke'
